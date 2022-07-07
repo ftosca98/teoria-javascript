@@ -1,0 +1,1 @@
+/*Optimizaciones: es para cuando queremos optimizar nuestro codigo para que nuestro archivo js pese menos, sea lo mas ligero posible y se vea mejor.*/
